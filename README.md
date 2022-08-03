@@ -19,4 +19,4 @@ You can find on github several projects I am involved in:
 * Scripts to [analyze Cobalt Strike payloads](https://github.com/Te-k/cobaltstrike)
 * Some [random scripts](https://github.com/Te-k/analyst-scripts) I have used for threat intel and pentest over the past 10 years
 
-You can find more information about me on [my website]() or follow me on [Twitter](https://twitter.com/tenacioustek) or [Mastodon](https://todon.eu/@tek)
+You can find more information about me on [my website](https://randhome.io/) or follow me on [Twitter](https://twitter.com/tenacioustek) or [Mastodon](https://todon.eu/@tek)
