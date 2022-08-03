@@ -6,12 +6,11 @@ I am an activist, hacker and security researcher, currently working at [Amnesty 
 - 🌱 I’m currently learning Go, OSINT and forensic
 - 📫 How to reach me: by email (tek AT randhome.io), 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I hate brussel sprouts
-
+- ⚡ Fun fact: I hate brussels sprout
 
 You can find on github several projects I am involved in:
 
-* [the Mobile Verification Toolkit (MVT)](https://github.com/mvt-project/mvt)
+* [The Mobile Verification Toolkit (MVT)](https://github.com/mvt-project/mvt)
 * [Indicators of Compromise of Stalkerware](https://github.com/Te-k/stalkerware-indicators)
 * A CLI tool for threat intel and OSINT called [Harpoon](https://github.com/Te-k/harpoon)
 * Some libraries to query threat intelligence platforms like [pycrtsh](https://github.com/Te-k/pycrtsh), [pysafebrowsing](https://github.com/Te-k/pysafebrowsing), [pythreatgrid2](https://github.com/Te-k/pythreatgrid2), [pysecuritytrails](https://github.com/Te-k/pysecuritytrails) or [pybinaryedge](https://github.com/Te-k/pybinaryedge)
