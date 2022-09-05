@@ -2,7 +2,7 @@
 
 I am an activist, hacker and security researcher, currently working at [Amnesty International](https://amnesty.org/). 
 
-[![Tek's github stats](https://github-readme-stats.vercel.app/api?username=Te-k&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Tek's github stats](https://github-readme-stats.vercel.app/api?username=Te-k&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on threat intelligence, malware analysis and osint
 - 🌱 I’m currently learning Go, OSINT and forensic
