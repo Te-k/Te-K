@@ -1,6 +1,6 @@
 ### Hi there, I'm Tek 👋
 
-I am an activist, hacker and security researcher, currently working at [Amnesty International](https://amnesty.org/). 
+I am an activist, hacker and security researcher, currently working at [Human Rights Watch](https://www.hrw.org/). 
 
 ![Tek's github stats](https://github-readme-stats.vercel.app/api?username=Te-k&show_icons=true&theme=dracula)
 
@@ -23,4 +23,4 @@ You can find on github several projects I am involved in:
 * Scripts to [analyze Cobalt Strike payloads](https://github.com/Te-k/cobaltstrike)
 * Some [random scripts](https://github.com/Te-k/analyst-scripts) I have used for threat intel and pentest over the past 10 years
 
-You can find more information about me on [my website](https://randhome.io/) or follow me on [Twitter](https://twitter.com/tenacioustek) or [Mastodon](https://todon.eu/@tek)
+You can find more information about me on [my website](https://randhome.io/) or follow me on [Mastodon](https://todon.eu/@tek)
