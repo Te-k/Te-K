@@ -18,7 +18,7 @@ You can find on github several projects I am involved in:
 * [Indicators of Compromise of Stalkerware](https://github.com/Te-k/stalkerware-indicators)
 * A CLI tool for threat intel and OSINT called [Harpoon](https://github.com/Te-k/harpoon)
 * Some libraries to query threat intelligence platforms like [pycrtsh](https://github.com/Te-k/pycrtsh), [pysafebrowsing](https://github.com/Te-k/pysafebrowsing), [pythreatgrid2](https://github.com/Te-k/pythreatgrid2), [pysecuritytrails](https://github.com/Te-k/pysecuritytrails) or [pybinaryedge](https://github.com/Te-k/pybinaryedge)
-* A bibligraphy of technology abuse in Intimate Partner violence : [ipvtechbib](https://github.com/Te-k/ipvtechbib) (available online [here](https://ipvtechbib.randhome.io/))
+* A bibliography of technology abuse in Intimate Partner violence : [ipvtechbib](https://github.com/Te-k/ipvtechbib) (available online [here](https://ipvtechbib.randhome.io/))
 * Several CLI tools to analyze [PE files](https://github.com/Te-k/pecli), [APK files](https://github.com/Te-k/apkcli) and [Mach-O files](https://github.com/Te-k/machocli)
 * Scripts to [analyze Cobalt Strike payloads](https://github.com/Te-k/cobaltstrike)
 * Some [random scripts](https://github.com/Te-k/analyst-scripts) I have used for threat intel and pentest over the past 10 years
