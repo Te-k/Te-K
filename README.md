@@ -2,8 +2,6 @@
 
 I am an activist, analyst and security researcher, currently working at [Human Rights Watch](https://www.hrw.org/). 
 
-![Tek's github stats](https://github-readme-stats.vercel.app/api?username=Te-k&show_icons=true&theme=dracula)
-
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Te-k&hide=html&layout=compact)
 
 - 🔭 I’m currently working on threat intelligence, intrusion detection and response and open source investigations
