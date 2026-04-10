@@ -1,14 +1,14 @@
 ### Hi there, I'm Tek 👋
 
-I am an activist, hacker and security researcher, currently working at [Human Rights Watch](https://www.hrw.org/). 
+I am an activist, analyst and security researcher, currently working at [Human Rights Watch](https://www.hrw.org/). 
 
 ![Tek's github stats](https://github-readme-stats.vercel.app/api?username=Te-k&show_icons=true&theme=dracula)
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Te-k&hide=html&layout=compact)
 
-- 🔭 I’m currently working on threat intelligence, malware analysis and osint
+- 🔭 I’m currently working on threat intelligence, intrusion detection and response and open source investigations
 - 🌱 I’m currently learning Go, OSINT and forensics
-- 📫 How to reach me: by email (tek AT randhome.io), 
+- 📫 How to reach me: by email (etienne AT maynier.eu), 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I hate brussels sprout
 
@@ -18,9 +18,8 @@ You can find on github several projects I am involved in:
 * [Indicators of Compromise of Stalkerware](https://github.com/Te-k/stalkerware-indicators)
 * A CLI tool for threat intel and OSINT called [Harpoon](https://github.com/Te-k/harpoon)
 * Some libraries to query threat intelligence platforms like [pycrtsh](https://github.com/Te-k/pycrtsh), [pysafebrowsing](https://github.com/Te-k/pysafebrowsing), [pythreatgrid2](https://github.com/Te-k/pythreatgrid2), [pysecuritytrails](https://github.com/Te-k/pysecuritytrails) or [pybinaryedge](https://github.com/Te-k/pybinaryedge)
-* A bibliography of technology abuse in Intimate Partner violence : [ipvtechbib](https://github.com/Te-k/ipvtechbib) (available online [here](https://ipvtechbib.randhome.io/))
+* A bibliography of technology abuse in Intimate Partner violence : [ipvtechbib](https://github.com/Te-k/ipvtechbib) (available online [here](https://ipvtechbib.maynier.eu/))
 * Several CLI tools to analyze [PE files](https://github.com/Te-k/pecli), [APK files](https://github.com/Te-k/apkcli) and [Mach-O files](https://github.com/Te-k/machocli)
-* Scripts to [analyze Cobalt Strike payloads](https://github.com/Te-k/cobaltstrike)
 * Some [random scripts](https://github.com/Te-k/analyst-scripts) I have used for threat intel and pentest over the past 10 years
 
-You can find more information about me on [my website](https://randhome.io/) or follow me on [Mastodon](https://todon.eu/@tek)
+You can find more information about me on [my website](https://maynier.eu/) or follow me on [Mastodon](https://todon.eu/@tek)
